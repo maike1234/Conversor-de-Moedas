@@ -2,8 +2,7 @@
  
 
 
-
-<img src="./conversor.jpeg"> 
+<img src="https://user-images.githubusercontent.com/92497291/145696354-5f764a18-3f87-4cef-964f-cc8c852e15de.jpeg"> 
 
 
 > Resultado do projeto conversor de moedas.
